@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=39D353&height=200&section=header&text=Valdtaniem&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Yixboost%20Games%20Developer&descAlignY=51&descAlign=62&descFontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6f42c1&height=200&section=header&text=Valdtaniem&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Yixboost%20Developer&descAlignY=51&descAlign=62&descFontColor=ffffff)
 
 # Hi there, I'm Valdtaniem! 👋
 
